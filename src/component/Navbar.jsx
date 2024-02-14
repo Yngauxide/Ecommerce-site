@@ -76,7 +76,7 @@ return () => {
        
         
       </div>
-      <div  className='w-10 h-10    flex items-center gap-2 lg:gap-5 justify-between lg:mr-60'>
+      <div  className='w-10 h-10 mr-5   flex items-center gap-2 lg:gap-5 justify-between lg:mr-60'>
         <img onClick={handleCard} src={cart} alt="shopping trollie" />
         <img className='object-contain lg:w-32 gap-6 mr-5' src={avatar} alt="profile icon" />
       </div>
