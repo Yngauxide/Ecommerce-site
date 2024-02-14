@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cartbutton{
+    background: hsl(26, 100%, 55%);
+
+}
+
