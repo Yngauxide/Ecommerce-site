@@ -3,7 +3,7 @@ import { useState } from 'react';
 // import { motion } from "framer-motion";
 import cart from "../component/images/icon-cart.svg";
 import avatar from "../component/images/image-avatar.png";
-import Card from './card';
+import Card from './Card';
 
 
 const Navbar = () => {

@@ -1,6 +1,6 @@
 import ImageGallery from "./ImageGallery"
 import ProductDetails from "./ProductDetails"
-import Card from "./card"
+
 const MainContent = () => {
 
 
