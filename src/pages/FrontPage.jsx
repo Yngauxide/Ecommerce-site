@@ -1,5 +1,5 @@
 import MainContent from "../component/MainContent"
-import Navbar from "../component/navbar"
+import Navbar from "../component/Navbar"
 
 const FrontPage = () => {
     return(
