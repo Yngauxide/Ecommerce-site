@@ -28,11 +28,11 @@ function ImageGallery() {
 <div className=""> 
  
   <div className="">
-    <img className="lg:w-[20rem] lg:h-[100%] lg:ml-[10rem] mt-10 rounded-lg w-[100%] h-[300px]"src={activeImg} alt="" />
+    <img className="lg:w-[20rem] lg:h-[100%] lg:ml-[10rem] mt-10 rounded-lg w-[80%] h-[300px] ml-10"src={activeImg} alt="" />
   </div>
 
 
-<div className="flex flex-wrap justify-center lg:flex flex-row mt- gap-5 lg:ml-[10rem] md:flex-row ">
+<div className="flex flex-wrap justify-center lg:flex flex-row mt- gap-3 lg:ml-[10rem] md:flex-row ">
   <div>
   <img onClick={()=>setActiveImage(images.img1)} className="w-[4rem] mt-2 rounded-xl " src={images.img1} alt="" />
   </div>
